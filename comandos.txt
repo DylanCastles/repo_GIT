@@ -15,3 +15,7 @@ ls -a --> se pueden ver repositorios ocultos (para ver si se ha inicializado ya 
 q --> salir
 
 modificacion
+
+otra modificacion
+
+otra modificacion mas
