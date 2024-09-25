@@ -1,0 +1,13 @@
+Hola mundo!
+
+(bash)
+
+Comandos basicos (tiene los mismos que linux: ls, cd...):
+git init
+git status
+git add
+git commit
+log --oneline
+checkout (para cambiar donde esta el head)
+
+ls -a --> se pueden ver repositorios ocultos (para ver si se ha inicializado ya que sale la carpeta git)
